@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-printf("hello world");
+printf("test GIT logstash plugin");
 return 0;
 }
 
